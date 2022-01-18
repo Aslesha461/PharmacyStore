@@ -1,0 +1,33 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "Full Stack Mern Application",
+  "main": "server.js",
+  "scripts": {
+    "start": " node backend/server.js",
+    "dev": "SET NODE_ENV= DEVELOPMENT & nodemon backend/server",
+    "prod": "SET NODE_ENV= PRODUCTION & nodemon backend/server",
+    "seeder": "node backend/utils/seeder.js"
+  },
+  "author": "Aslesha Kumbhar",
+  "license": "ISC",
+  "dependencies": {
+    "@stripe/react-stripe-js": "^1.7.0",
+    "@stripe/stripe-js": "^1.22.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "moment-timezone": "^0.5.34",
+    "mongoose": "^6.1.4",
+    "nodemailer": "^6.7.2",
+    "stripe": "^8.197.0",
+    "tzdata": "^1.0.29",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

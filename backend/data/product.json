@@ -1,0 +1,233 @@
+[
+	{
+		"name" : "Calamine Lotion",
+		"price" : 300.00,
+		"description": "This medication is an anti-itch medication that contains mixture of zinc oxide (ZnO) with about 0.5% iron (III) oxide, prescribed for itching skin conditions. This medication in some cases is used as a mild antiseptic to arrest infections caused by scratching the affected area. Calamine is proved to be an effective medication in acne treatment.Dosage: Adult: Topical- As 0.05 or 0.1% cream/gel: Apply once in the evening. SideEffects: Skin: Itching, burning/stinging, redness, skin peeling, irritation, worsening of psoriasis, rash, dry skin, bleeding, localized swelling, high cholesterol levels, desquamation, contact dermatitis, discoloration of skin and photosensitivity.",
+		"ratings" : 4.5,
+		"images" : [{
+				"public_id" : "products/dsvbpny402gelwugv2le",
+				"url" : "https://i.postimg.cc/L6x9TjJv/calamine.jpg"
+		}],
+		"category" : "Skin",
+		"seller" : "Exchange Select",
+		"stock" : 50,
+		"numOfReviews" : 32,
+		"reviews": []
+},
+{
+		"name" : "Isotretinoin ",
+		"price" : 299.00,
+     "description":"Indication This medication is a retinoid, prescribed for acne and other skin disorders. It reduces skin oil production, changing the characteristics of the skin oil, and preventing abnormal hardening of the skin.Dosage- Adult- PO- The recommended dose range is 0.5 to 1.0 mg/kg/day given in two divided doses with food for 15 to 20 weeks.SideEffects- Allergic reactions, fast heart rate and stroke.",
+		"ratings" : 1.65,
+		"images" : [{
+				"public_id" : "products/61oXGZ60GfL_fixco9",
+				"url" : "https://5.imimg.com/data5/AO/EC/FV/SELLER-7047793/isotretinoin-500x500.jpg"
+		}],
+		"category" : "Skin",
+		"seller" : "Themiseal Sterlie Solution",
+		"stock" : 0,
+		"numOfReviews" : 2,
+		"reviews": []
+},
+{
+		"name" : "Dettol Antiseptic Liquid Bottle Of 550 Ml",
+		"price" : 190.71,
+     "description":"Dettol Antiseptic Liquid eliminates germs from skin, shields from contaminations brought about by cuts and scratches and can likewise be utilized as a family sanitiser on home surfaces and in clothing.",
+		"ratings" : 3.5,
+		"images" : [{
+				"public_id" : "products/chairmount_nuubea",
+				"url" : "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-2-1641788066.jpg?dim=240x0&dpr=1&q=100"
+		}],
+		"category" : "Home",
+		"seller" : "Dettol",
+		"stock" : 1,
+		"numOfReviews" : 12,
+		"reviews": []
+},
+{
+		"name" : "Lizol Floral Disinfectant Floor Cleaner Liquid Bottle Of 200 Ml",
+		"price" : 34.58,
+    "description":"Lizol is India's No.1 Floor Cleaning Brand, recommended by the Indian Medical Association. Unlike ordinary cleaners and phenyls, Lizol makes your home free of germs and illness-causing viruses, by killing 99.99% of germs and giving 10 times better cleaning performance. The added advantage of a pleasant floral smell leaves your home smelling like a lush green garden with flowers.",		
+    "ratings" : 4.5,
+		"images" : [{
+				"public_id" : "products/headphones_t2afnb",
+				"url" : "https://cdn01.pharmeasy.in/dam/products_otc/Q82571/lizol-floral-disinfectant-floor-cleaner-liquid-bottle-of-200-ml-2-1641789449.jpg?dim=320x320&dpr=1&q=100"
+		}],
+		"category" : "Home",
+		"seller" : "LIZOL",
+		"stock" : 11,
+		"numOfReviews" : 112,
+		"reviews": []
+},
+{
+		"name" : "Godrej Aer Home Spray - Cool Surf Blue - 240ml",
+		"price" : 126.99 ,
+    "description":"The Godrej AER home spray is a refreshing scent, inspired by the pleasant smell of a cool sea breeze. The room freshener can be used in the bedroom, your living space, workspace and public spaces. Its fragrance is refreshing and long-lasting. Using the room freshener spray is easy and convenient. Just shake the can well and spray it, ensuring that you hold it away from your body and face. Space will instantly smell of sea breeze and the ocean! There are several Godrej AER home spray variants that you can try as well.",
+		"ratings" : 4.8,
+		"images" : [{
+				"public_id" : "products/airpords_e5cqqr",
+				"url" : "https://cdn01.pharmeasy.in/dam/products_otc/E82070/godrej-aer-home-spray-cool-surf-blue-240ml-2-1641791632.jpg?dim=320x320&dpr=1&q=100"
+		}],
+		"category" : "Home",
+		"seller" : "GODREJ AER",
+		"stock" : 122,
+		"numOfReviews" : 2671,
+		"reviews": []
+},
+{
+		"name" : "Saridon Headache Relief Tablet- Strip Of 10 Tablets",
+		"price" : 27.99,
+		"description" : "Saridon tablets are usually used for headache relief. This tablet acts as a mild analgesic medicine that is primarily used as a pain reliever. It can also be used to relieve toothache, menstrual pain and postoperative pain. It is recommended by the doctors during fever as it contains paracetamol. It is known to be a fast-acting medicine that is safe and works effectively.",
+		"ratings" : 4.1,
+		"images" : [{
+				"public_id" : "products/eahhtj1bkn1k9gjgd3hn",
+				"url" : "https://cdn01.pharmeasy.in/dam/products_otc/156565/saridon-headache-relief-tablet-strip-of-10-tablets-2.1-1641398744.jpg?dim=240x0&dpr=1&q=100"
+		}],
+		"category" : "Pain",
+		"seller" : "SARIDON",
+		"stock" : 1123,
+		"numOfReviews" : 6,
+		"reviews": []
+},
+{
+		"name" : "Vicks Vaporub 50ml, Relief From Cold, Cough, Headache And Body Pain ",
+		"price" : 116.00,
+		"description" : "The Vicks Vaporub is an effective balm that helps alleviate multiple symptoms of cough and cold. Upper respiratory and middle respiratory congestions can be very uncomfortable and often reduce the quality of your life for several days on end. With Vicks Vaporub, you can easily escape from these uneasy symptoms of chest congestion and blockages in the nasal passage due to the common cold. This wonderful concoction, that is now a household name, is made from both medicinal and herbal extracts to provide quick and long-lasting relief from symptoms of cough and cold.",
+		"ratings" : 4.9,
+		"images" : [{
+				"public_id" : "products/macbook_o2cj2k",
+				"url" : "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-2-1641398938.jpg?dim=240x0&dpr=1&q=100"
+		}],
+		"category" : "Pain",
+		"seller" : "VICKS",
+		"stock" : 0,
+		"numOfReviews" : 56,
+		"reviews": []
+},
+{
+		"name" : "Himalaya Baby Wipes Packet Of 72 's",
+		"price" : 144.00,
+		"description" : "Himalaya Baby Wipes pack of 72 wipes is an essential tool that should be a part of your baby care kit. These moisturizing Himalaya Baby Wipes help to clean your baby without using any alcohol or chemicals, leaving your baby’s skin soft, safe and clean. Infused with the natural power of herbs, these wipes are perfect for cleaning up the mess after feeding your baby.",
+		"ratings" : 5,
+		"images" : [
+				{
+						"public_id" : "products/wmoa49q9e70ze9xtcra2",
+						"url" : "https://cdn01.pharmeasy.in/dam/products_otc/090531/himalaya-baby-wipes-packet-of-72-s-2-1641787703.jpg?dim=240x0&dpr=1&q=100"
+				}
+				
+],
+		"category" : "Baby",
+		"seller" : "HIMALAYA BABY",
+		"stock" : 500,
+		"numOfReviews" : 1,
+		"reviews": []
+},
+{
+	"name" : "Parachute 100 % Pure Coconut Oil, 600 Ml (bottle)",
+	"price" : 251.00,
+	"description" : "Parachute coconut oil is sourced from sun-dried coconuts which goes through a 5-stage purification process and 27 quality tests to ensure superior quality. Since it is free from added preservatives and chemicals, it is graded as an edible oil too. Hence, it can be used for cooking purposes. Parachute coconut oil can be used as a hair oil as well since the formula strengthens hair roots and promotes hair growth. It nourishes hair strands from root to tip, giving it a silky and shiny appearance.",
+	"ratings" : 5,
+	"images" : [
+			{
+					"public_id" : "products/wmoa49q9e70ze9xtcra2",
+					"url" : "https://cdn01.pharmeasy.in/dam/products_otc/E75830/parachute-100-pure-coconut-oil-600-ml-bottle-2-1641788867.jpg?dim=240x0&dpr=1&q=100"
+			}
+			
+],
+	"category" : "Personal",
+	"seller" : "PARACHUTE",
+	"stock" : 500,
+	"numOfReviews" : 1,
+	"reviews": []
+},
+{
+	"name" : " Scalpe Plus Anti Dandruff Shampoo Bottle Of 75 Ml",
+	"price" : 144.00,
+	"description" : "Scalpe Plus Shampoo is a proven shampoo for the treatment of dandruff-related issues. The ingredients are based on the ketoconazole + ZPTO formula, which is renowned and recognized across the globe for its effectiveness against dandruff. Ketoconazole works by fighting against the primary cause of dandruff in humans, the fungus Malassezia. By destroying this fungus and with regular use even eliminating it from the scalp, Scalpe Shampoo can provide long-term relief from dandruff. Regular use of Scalpe is also great for your hair as the shampoo base conditions your hair making it softer. From the IMS Prescription Audit MAT (Mar 20) Scalpe Plus was rated as the most prescribed anti-dandruff shampoo currently on the market, especially due to its ability to fight off recurring dandruff.",
+	"ratings" : 5,
+	"images" : [
+			{
+					"public_id" : "products/wmoa49q9e70ze9xtcra2",
+					"url" : "https://cdn01.pharmeasy.in/dam/products_otc/270382/scalpe-plus-anti-dandruff-shampoo-bottle-of-75-ml-1-1641398656.jpg?dim=240x0&dpr=1&q=100"
+			}
+			
+],
+	"category" : "Personal",
+	"seller" : "SCALPE",
+	"stock" : 20,
+	"numOfReviews" : 1,
+	"reviews": []
+},{
+	"name" : "Instant Hand Cleanser ( Alcohol Based And Organic)- 100ml",
+	"price" : 100.8,
+	"description" : "With infections leading to diseases on the rise, it is our hands that transfer most of the germs by touching various viruses and microbes daily, though unintentionally.",
+	"ratings" : 5,
+	"images" : [
+			{
+					"public_id" : "products/wmoa49q9e70ze9xtcra2",
+					"url" : "https://cdn01.pharmeasy.in/dam/products_otc/A90288/instant-hand-cleanser-alcohol-based-and-organic-100ml-2-1632777453.jpg?dim=240x0&dpr=1&q=100"
+			}
+			
+],
+	"category" : "COVID",
+	"seller" : "N95 MASKS & SANITIZERS & SAFETY GEAR",
+	"stock" : 500,
+	"numOfReviews" : 1,
+	"reviews": []
+},
+{
+	"name" : "Coviself Covid Self Test Kit",
+	"price" : 250.00,
+	"description" : "It is Indias first COVID-19 home test kit to have earned the approval of the ICMR. Anyone above the age of 18 can use it at home. However, if the test kit is used by people below 18, adult supervision is suggested.",
+	"ratings" : 5,
+	"images" : [
+			{
+					"public_id" : "products/wmoa49q9e70ze9xtcra2",
+					"url" : "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-2-1641792540.jpg?dim=240x0&dpr=1&q=100"
+			}
+			
+],
+	"category" : "COVID",
+	"seller" : "MyLabs",
+	"stock" : 4,
+	"numOfReviews" : 1,
+	"reviews": []
+},
+{
+	"name" : "Tri-activ N95 Masks With 6 Layer Protection Anti-virus Coating 99.5% Filtration Efficiency",
+	"price" : 89.4,
+	"description" : "Since the emergence of the Covid-19 virus, two things have become extremely important when it comes to personal safety - wearing masks and social distancing. The Tri-active N95 mask is made of high-quality fabric that protects you from bacteria, viruses and pollution.",
+	"ratings" : 5,
+	"images" : [
+			{
+					"public_id" : "products/wmoa49q9e70ze9xtcra2",
+					"url" : "https://cdn01.pharmeasy.in/dam/products_otc/K63117/tri-activ-n95-masks-with-6-layer-protection-anti-virus-coating-995-filtration-efficiency-6.1-1641789681.jpg?dim=240x0&dpr=1&q=100"
+			}
+			
+],
+	"category" : "COVID",
+	"seller" : "TRI-ACTIV",
+	"stock" : 100,
+	"numOfReviews" : 1,
+	"reviews": []
+},
+{
+	"name" : "Zandu Pancharishta Digestive Tonic Bottle Of 650 Ml",
+	"price" : 199.4,
+	"description" : "The Pancharishta Digestive Tonic is a digestive tonic from the pharmaceutical company Zandu. Zandu Pancharishta Digestive Tonic is a tonic that is one hundred percent ayurvedic and does not contain any allopathic elements. It is enriched with thirty-five ayurvedic herbs which have been tried and tested to help improve digestion. The tonic can be used by children, adults and the elderly and does not pose any negative implications on the body. The Zandu Pancharishta Digestive Tonic can be found in varying sizes and the 650 ml bottle is the best value for money from among the available sizes.",
+	"ratings" : 5,
+	"images" : [
+			{
+					"public_id" : "products/wmoa49q9e70ze9xtcra2",
+					"url" : "https://cdn01.pharmeasy.in/dam/products_otc/I10877/zandu-pancharishta-digestive-tonic-bottle-of-650-ml-2-1641787895.jpg?dim=240x0&dpr=1&q=100"
+			}
+			
+],
+	"category" : "Ayurvedic",
+	"seller" : "ZANDU",
+	"stock" : 100,
+	"numOfReviews" : 1,
+	"reviews": []
+}
+
+]
